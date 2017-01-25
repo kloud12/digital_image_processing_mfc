@@ -188,6 +188,7 @@
     <ClInclude Include="ChildFrm.h" />
     <ClInclude Include="dip.h" />
     <ClInclude Include="dipDoc.h" />
+    <ClInclude Include="dipEncoder.h" />
     <ClInclude Include="dipView.h" />
     <ClInclude Include="MainFrm.h" />
     <ClInclude Include="Resource.h" />
@@ -198,6 +199,7 @@
     <ClCompile Include="ChildFrm.cpp" />
     <ClCompile Include="dip.cpp" />
     <ClCompile Include="dipDoc.cpp" />
+    <ClCompile Include="dipEncoder.cpp" />
     <ClCompile Include="dipView.cpp" />
     <ClCompile Include="MainFrm.cpp" />
     <ClCompile Include="stdafx.cpp">
