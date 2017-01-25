@@ -4,6 +4,7 @@
 
 dipEncoder::dipEncoder()
 {
+	return;
 }
 
 
